@@ -1,0 +1,7 @@
+package com.objective.package06;
+
+public class Call {
+    public static void main(String[] args) {
+Coincase  coin = new Coincase(int1,int1);
+    }
+}
